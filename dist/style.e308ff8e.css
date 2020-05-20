@@ -5,8 +5,12 @@
 }
 
 body {
-    background-color: rgb(30, 30, 20);
     color: aliceblue;
+}
+
+.main{
+    width: 200px;
+    background-color: rgb(65, 30, 20);
 }
 
 #heart {
@@ -60,6 +64,10 @@ body {
     transform: rotate(45deg);
     background-color: rgb(157, 30, 35);
     border-radius: 0 0 5% 0;
+}
+
+del{
+    color: rgb(157, 30, 35);
 }
 
 /*# sourceMappingURL=/style.e308ff8e.css.map */
